@@ -27,9 +27,11 @@ Retire Pension Manager | Jan 2024 - Current
 Macro Analyst | Dec 2016 - Sep 2018
 
 ## 🎓 Education
-Yonsei University, Seoul, Korea
+Yonsei University, Seoul, Korea  
 M.S. in Informantion System(AI & Fintech), Mar 2021 - Feb 2023
-Kangnam University, Kyunggi, Korea
+
+
+Kangnam University, Kyunggi, Korea  
 B.S. in Economics, Mar 2008 - Feb 2015
 ---
 
