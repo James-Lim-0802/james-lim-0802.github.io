@@ -33,6 +33,8 @@ M.S. in Informantion System(AI & Fintech), Mar 2021 - Feb 2023
 
 Kangnam University, Kyunggi, Korea  
 B.S. in Economics, Mar 2008 - Feb 2015
+
+
 ---
 
 > "Investor, Quant, James Lim"
