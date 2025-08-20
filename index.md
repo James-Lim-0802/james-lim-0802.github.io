@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: splash
 title: James Lim의 LAB
+permalink: /
 ---
 ## 👋 About Me
 대화를 통해 생각 정리하는 것을 좋아하며, 시그니처 커피와 맛있는 베이커리를 찾아다니며 함께 투자 이야기 나누는 것을 즐깁니다. 그러면서도 꼼꼼하고 세심한 기억력을 반적 매력으로 가지고 있는 James Lim 입니다.
