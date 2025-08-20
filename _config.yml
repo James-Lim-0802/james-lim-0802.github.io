@@ -1,6 +1,10 @@
 title: Quant, Investor, LJM
-description: Ljm's strategy and research lab
+description: LJM's strategy and research lab
+locale: "ko-KR"
+repository: james-lim-0802/james-lim-0802.github.io
+
 remote_theme: mmistakes/minimal-mistakes
+
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
@@ -8,3 +12,27 @@ plugins:
   - jekyll-seo-tag
 
 markdown: kramdown
+highlighter: rouge
+
+author:
+  name: James Lim
+  email: investorljm@email.com
+
+paginate: 5
+paginate_path: /page:num/
+
+defaults:
+  # 기본 글(post) 설정
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+  # index.md 같은 페이지 설정
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: splash
+      author_profile: true
