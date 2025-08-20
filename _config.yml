@@ -1,5 +1,5 @@
-title : Quant, Investor, LJM
-description : Ljm's strategy and research lab
+title: Quant, Investor, LJM
+description: Ljm's strategy and research lab
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
