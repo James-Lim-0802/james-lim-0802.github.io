@@ -1,7 +1,7 @@
 ---
-layout: splash
+
 title: "James Lim의 Lab"
-permalink: /
+
 ---
 
 ## 👋 About Me
